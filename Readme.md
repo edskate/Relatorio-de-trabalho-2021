@@ -19,3 +19,5 @@
 ## ás 12:00
 
 ## intervalo 13:00 ás 14:00
+
+## Saida ás 18:00 horas
